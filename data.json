@@ -47,6 +47,55 @@
             },
             {
                 "year": "2000",   "percip": 7,   "temp": -0.1
+            },
+            {
+                "year":"2001",     "precip":-40,   "temp":1.9
+            },
+            {
+                "year":"2002",      "precip":-7,   "temp":-0.8      
+            },
+            {
+                "year":"2003",      "precip":2,      "temp":-0        
+            },
+            {
+                "year":"2004",      "precip":-18,     "temp":1.2
+            },
+            {
+                "year":"2005",      "precip":21,      "temp":1.5
+            
+            },
+            {
+                "year":"2006",      "precip":48,      "temp":-1.0
+            
+            },
+            {
+                "year":"2007",      "precip":-17,     "temp":0.8
+            
+            },
+            {
+                "year":"2008",    "precip":-18,       "temp":1.6  
+            },
+            {
+                "year":"2009",     "precip":-18,       "temp":2.5
+            },
+            {
+                "year":"2010",     "precip":35,          "temp":0.4
+            
             }
-            ]
+                    
+                ]
+            }
+
+
+
+
+
+
+
+
+
+
+
+            
+    ]
 }
