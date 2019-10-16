@@ -1,87 +1,141 @@
-{ 
-        "data":[
-            {
-                "year": "1985",   "percip": 29,   "temp":-4.2 
-            },
-            {
-                "year": "1986",   "percip": 59,   "temp": -1.3
-            },
-            {
-                "year": "1987",   "percip": -48,   "temp": 2.1
-            },
-            {
-                "year": "1988",   "percip": -24,   "temp": 0.3
-            },
-            {
-                "year": "1989",   "percip": 1,   "temp": 0.2
-            },
-            {
-                "year": "1990",   "percip": -41,   "temp": 0.2
-            },
-            {
-                "year": "1991",   "percip": 5,   "temp": -1.7
-            },
-            {
-                "year": "1992",   "percip": 5,   "temp": 0.0
-            },
-            {
-                "year": "1993",   "percip": 1,   "temp": -1.0
-            },
-            {
-                "year": "1994",   "percip": -1,   "temp": 1.6
-            },
-            {
-                "year": "1995",   "percip": 23,   "temp": -1.0
-            },
-            {
-                "year": "1996",   "percip": 62,   "temp": -2.6
-            },
-            {
-                "year": "1997",   "percip": -13,   "temp": 1.3
-            },
-            {
-                "year": "1998",   "percip": 15,   "temp": 1.7
-            },
-            {
-                "year": "1999",   "percip": -41,   "temp": 1.5
-            },
-            {
-                "year": "2000",   "percip": 7,   "temp": -0.1
-            },
-            {
-                "year":"2001",     "precip":-40,   "temp":1.9
-            },
-            {
-                "year":"2002",      "precip":-7,   "temp":-0.8      
-            },
-            {
-                "year":"2003",      "precip":2,      "temp":-0        
-            },
-            {
-                "year":"2004",      "precip":-18,     "temp":1.2
-            },
-            {
-                "year":"2005",      "precip":21,      "temp":1.5
-            
-            },
-            {
-                "year":"2006",      "precip":48,      "temp":-1.0
-            
-            },
-            {
-                "year":"2007",      "precip":-17,     "temp":0.8
-            
-            },
-            {
-                "year":"2008",    "precip":-18,       "temp":1.6  
-            },
-            {
-                "year":"2009",     "precip":-18,       "temp":2.5
-            },
-            {
-                "year":"2010",     "precip":35,          "temp":0.4
-            
-            }
-                    
-                ]
-            }
+
+
+{
+    "enviroData":[
+        {
+            "year":"1970",    "precip":20,    "temp":-1.1
+        },
+        {
+            "year":"1971",    "precip":-5,    "temp":-0.1   
+        },
+        {
+            "year":"1972",    "precip":-3,    "temp":-1.8
+        },
+        {
+            "year":"1973",    "precip":26,    "temp":-1.6
+        },
+        {
+            "year":"1974",    "precip":-42,    "temp":0.9
+        },
+        {
+            "year":"1975",    "precip":-4,    "temp":0.4
+        },
+        {
+            "year":"1976",    "precip":-66,   "temp":0.3
+        },
+        {
+            "year":"1977",    "precip":10,    "temp":0.0  
+        },
+        {
+            "year":"1978",    "precip":46,    "temp":0.2
+        },
+        {
+            "year":"1979",    "precip":-21,   "temp":1.2 
+        },
+        {
+            "year":"1980",    "precip":-7,    "temp":1.3  
+        },
+        {
+            "year":"1981",    "precip":1,     "temp":-0.2   
+        },
+        {
+            "year":"1982",    "precip":1,      "temp":1.2   
+        },
+        {
+            "year":"1983",    "precip":5,     "temp":1.3  
+        },
+        {
+            "year":"1984",    "precip":73,    "temp":2.0      
+        },
+        {
+            "year":"1984",    "precip":29,    "temp":-0.7    
+        },
+        {
+            "year": "1985",   "percip": 29,   "temp":-4.2 
+        },
+        {
+            "year": "1986",   "percip": 59,   "temp": -1.3
+        },
+        {
+            "year": "1987",   "percip": -48,   "temp": 2.1
+        },
+        {
+            "year": "1988",   "percip": -24,   "temp": 0.3
+        },
+        {
+            "year": "1989",   "percip": 1,   "temp": 0.2
+        },
+        {
+            "year": "1990",   "percip": -41,   "temp": 0.2
+        },
+        {
+            "year": "1991",   "percip": 5,   "temp": -1.7
+        },
+        {
+            "year": "1992",   "percip": 5,   "temp": 0.0
+        },
+        {
+            "year": "1993",   "percip": 1,   "temp": -1.0
+        },
+        {
+            "year": "1994",   "percip": -1,   "temp": 1.6
+        },
+        {
+            "year": "1995",   "percip": 23,   "temp": -1.0
+        },
+        {
+            "year": "1996",   "percip": 62,   "temp": -2.6
+        },
+        {
+            "year": "1997",   "percip": -13,   "temp": 1.3
+        },
+        {
+            "year": "1998",   "percip": 15,   "temp": 1.7
+        },
+        {
+            "year": "1999",   "percip": -41,   "temp": 1.5
+        },
+        {
+            "year": "2000",   "percip": 7,   "temp": -0.1
+        },
+        {
+            "year": "2000",   "percip": 7,   "temp": -0.1
+        },
+        {
+            "year":"2001",     "precip":-40,   "temp":1.9
+        },
+        {
+            "year":"2002",      "precip":-7,   "temp":-0.8      
+        },
+        {
+            "year":"2003",      "precip":2,      "temp":-0        
+        },
+        {
+            "year":"2004",      "precip":-18,     "temp":1.2
+        },
+        {
+            "year":"2005",      "precip":21,      "temp":1.5
+        
+        },
+        {
+            "year":"2006",      "precip":48,      "temp":-1.0
+        
+        },
+        {
+            "year":"2007",      "precip":-17,     "temp":0.8
+        
+        },
+        {
+            "year":"2008",    "precip":-18,       "temp":1.6  
+        },
+        {
+            "year":"2009",     "precip":-18,       "temp":2.5
+        },
+        {
+            "year":"2010",     "precip":35,          "temp":0.4
+        
+        }
+
+
+    ]
+} 
