@@ -1,0 +1,63 @@
+{
+    "weather":[
+        {"weatherCondition":"sunny","modifier":1},
+        {"weatherCondition":"rainy","modifier":0.7},
+        {"weatherCondition":"windy","modifier":0.8},
+        {"weatherCondition":"snowy","modifier":0.5}
+    ],
+    "trackLength":200,
+    "racingCars":[
+        {
+            "name":"Tesla",
+            "workingStatus":true,
+            "minSpeed":100,
+            "maxSpeed":230,
+            "trackPosition":0,
+            "breakDownC":0.20,
+            "driverName":"Elon Musk",
+            "nitroBoostNum":4,
+            "chanceOfNB":0.30,
+            "racerWinner":false
+
+        },
+        {
+            "name":"Bugatti",
+            "workingStatus":true,
+            "minSpeed":110,
+            "maxSpeed":350,
+            "trackPosition":0,
+            "breakDownC":0.50,
+            "driverName":"Mario",
+            "nitroBoostNum":8,
+            "chanceOfNB":0.05,
+            "racerWinner":false
+
+        },
+        {
+            "name":"Horse",
+            "workingStatus":true,
+            "minSpeed":20,
+            "maxSpeed":350,
+            "trackPosition":0,
+            "breakDownC":0.01,
+            "driverName":"Racer Rob",
+            "nitroBoostNum":8,
+            "chanceOfNB":0.60,
+            "racerWinner":false
+
+        },
+        {
+            "name":"Hot Wheelz",
+            "workingStatus":true,
+            "minSpeed":50,
+            "maxSpeed":150,
+            "trackPosition":0,
+            "breakDownC":0.40,
+            "driverName":"Bill Gates",
+            "nitroBoostNum":2,
+            "chanceOfNB":1,
+            "racerWinner":false
+
+        }  
+    ]
+}
