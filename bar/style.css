@@ -1,0 +1,43 @@
+#chart {
+  background-color: #ddd;
+}
+
+rect.positive {
+  fill: steelblue;
+}
+
+rect.negative {
+  fill: darkorange;
+}
+
+.axis text {
+  font: 10px sans-serif;
+  fill: black;
+}
+
+.axis.y text {
+  text-anchor: end;
+}
+body {
+background-color: lightgray;
+color: white;
+font-size: 20pt;
+text-align: center;
+
+}
+#chart1, #chart2 {
+  background-color: lightgray;
+}
+
+#container1, #container2{
+  text-align: center;
+  background-color: grey;
+  color: white;
+  font-size: 20pt;
+  width: 100%;
+
+}
+#stats {
+  width: 900px;
+
+}
