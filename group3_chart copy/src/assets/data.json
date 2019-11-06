@@ -1,0 +1,83 @@
+{
+    "graphData":
+    [
+                {"name": "1985",   "value": 29,   "temp":-4.2 },
+                {"name": "1986",   "value": 59,   "temp": -1.3},
+                {"name": "1987",   "value": -48,   "temp": 2.1
+            },
+            {
+                "name": "1988",   "value": -24,   "temp": 0.3
+            },
+            {
+                "name": "1989",   "value": 1,   "temp": 0.2
+            },
+            {
+                "name": "1990",   "value": -41,   "temp": 0.2
+            },
+            {
+                "name": "1991",   "value": 5,   "temp": -1.7
+            },
+            {
+                "name": "1992",   "value": 5,   "temp": 0.0
+            },
+            {
+                "name": "1993",   "value": 1,   "temp": -1.0
+            },
+            {
+                "name": "1994",   "value": -1,   "temp": 1.6
+            },
+            {
+                "name": "1995",   "value": 23,   "temp": -1.0
+            },
+            {
+                "name": "1996",   "value": 62,   "temp": -2.6
+            },
+            {
+                "name": "1997",   "value": -13,   "temp": 1.3
+            },
+            {
+                "name": "1998",   "value": 15,   "temp": 1.7
+            },
+            {
+                "name": "1999",   "value": -41,   "temp": 1.5
+            },
+            {
+                "name": "2000",   "value": 7,   "temp": -0.1
+            },
+            {
+                "name":"2001",     "value":-40,   "temp":1.9
+            },
+            {
+                "name":"2002",      "value":-7,   "temp":-0.8      
+            },
+            {
+                "name":"2003",      "value":2,      "temp":-0        
+            },
+            {
+                "name":"2004",      "value":-18,     "temp":1.2
+            },
+            {
+                "name":"2005",      "value":21,      "temp":1.5
+            
+            },
+            {
+                "name":"2006",      "value":48,      "temp":-1.0
+            
+            },
+            {
+                "name":"2007",      "value":-17,     "temp":0.8
+            
+            },
+            {
+                "name":"2008",    "value":-18,       "temp":1.6  
+            },
+            {
+                "name":"2009",     "value":-18,       "temp":2.5
+            },
+            {
+                "name":"2010",     "value":35,          "temp":0.4
+            
+            }
+                    
+                ]
+            }
