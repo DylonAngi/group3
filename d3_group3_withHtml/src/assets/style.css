@@ -1,0 +1,12 @@
+h1{
+    position:absolute; 
+    font-family:Arial, Helvetica, sans-serif;
+    left: 70%; 
+    top: 5%;
+    text-align: center;
+    color: pink;
+}
+
+.stats{
+    text-align:center;
+}
